@@ -1,0 +1,27 @@
+.container{
+ width: 100%;
+ display: flex;
+ padding: 5px;
+ gap: 5px;
+}
+.container span{
+    width: 100%;
+}
+
+.container button{
+    border-radius: 5px;
+    border: none;
+    padding: 3px;
+    cursor: pointer;
+}
+
+.container button:hover{
+    background-color: rgb(147, 230, 154);
+}
+
+.container button:last-child:hover{
+    background-color: rgb(241, 88, 88);
+}
+
+
+

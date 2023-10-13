@@ -1,0 +1,18 @@
+input {
+  border: 1px solid black;
+  padding: 15px;
+  width: 400px;
+  display: flex;
+  margin: 0 auto;
+  border-radius: 5px;
+  outline: none;
+}
+
+.todolist{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 400px;
+  margin: 10px auto;
+}
